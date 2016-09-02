@@ -1,0 +1,33 @@
+body {
+	font-family: Droid Sans;
+	font-size: 13pt;
+	background-color: #E7E8EC;
+}
+
+@font-face {
+  font-family: Localz;
+  src: url(localz.ttf) format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+#output {
+	font-size: 60pt;
+	font-family: Localz;
+}
+
+.title {
+	font-size: 24pt;
+	font-family: Localz;
+	color: #6D6F71;
+	background-color: #B1B2B5;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: -10px;
+	padding-left: 15px
+}
+
+.footnote {
+	font-family: Droid Sans;
+	font-size: 9pt;
+}
