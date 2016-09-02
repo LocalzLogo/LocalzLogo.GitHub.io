@@ -1,5 +1,5 @@
 function generate() {
-	var text = document.getElementById('text').value;
+	var text = document.getElementById('text').value.toLowerCase();
 	var checkbox = document.getElementById('z').checked;
 	
 	var output = "";
